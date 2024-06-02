@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HypertextAssasin
 - 👀 I’m interested in coding a lot
 - 🌱 I’m currently learning how to make discord bots 
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m open to collaborate 
 - 📫 How to reach me? , you can reach me at abikommuri@gmail.com
 
 <!---
