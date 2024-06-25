@@ -1,4 +1,4 @@
-**- 👋 Hi, I’m @Abhinav>K
+**- 👋 Hi, I’m @Abhinav.K
 - 👀 I’m interested in coding a lot
 - 🌱 I’m currently learning how to make discord bots 
 - 💞️ I’m open to collaborate 
